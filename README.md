@@ -40,9 +40,9 @@ Store 1 needed its raw customer data cleaned and structured before running any m
 ## Project Structure
 
 ```
-store1-customer-analysis/
+store-customer-analysis/
 │
-├── store1_customer_analysis.ipynb   # Main analysis notebook
+├── store_customer_analysis.ipynb   # Main analysis notebook
 └── README.md
 ```
 
